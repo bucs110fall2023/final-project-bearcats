@@ -6,13 +6,13 @@
 
 ## Team Members
 
-<< List team member names >>
+Jessica Zheng and Catherin Patrick 
 
 ***
 
 ## Project Description
 
-<< Give an overview of your project >>
+A dinosaur is continously running and it needs to avoid objects. The player has to collect a coin to earn a point when jumping or ducking. 
 
 ***    
 
@@ -30,11 +30,11 @@
 
 ### Features
 
-1. << Feature 1 >>
-2. << Feature 2 >>
-3. << Feature 3 >>
-4. << Feature 4 >>
-5. << Feature 5 >>
+1. << Start menu >>
+2. << Moveable dinosaur >>
+3. << Obstacles >>
+4. << Scrolling background >>
+5. << Game over / High score>>
 
 ### Classes
 
