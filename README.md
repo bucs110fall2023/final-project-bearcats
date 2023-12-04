@@ -5,12 +5,14 @@
 ## CS110 Final Project  << Fall, 2023 >>
 
 ## Team Members
-Catherin Patrick & Jessica Zheng 
+
+Jessica Zheng and Catherin Patrick 
+
 ***
 
 ## Project Description
-Replicate the Dinosaur game where the user controls the character's movement. 
-Features: Start menu, movable character, obstacle
+
+A dinosaur is continously running and it needs to avoid objects. The player has to collect a coin to earn a point when jumping or ducking. 
 
 ***    
 
@@ -28,11 +30,11 @@ Features: Start menu, movable character, obstacle
 
 ### Features
 
-1. << Feature 1 >>
-2. << Feature 2 >>
-3. << Feature 3 >>
-4. << Feature 4 >>
-5. << Feature 5 >>
+1. << Start menu >>
+2. << Moveable dinosaur >>
+3. << Obstacles >>
+4. << Scrolling background >>
+5. << Game over / High score>>
 
 ### Classes
 
