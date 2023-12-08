@@ -2,7 +2,7 @@
 :warning: Everything between << >> needs to be replaced (remove << >> after replacing)
 
 # << Project Title >>
-## CS110 Final Project  << Fall, 2023 >>
+## CS110 Final Project Fall, 2023
 
 ## Team Members
 
@@ -30,11 +30,11 @@ A dinosaur is continously running and it needs to avoid objects. The player has 
 
 ### Features
 
-1. << Start menu >>
-2. << Moveable dinosaur >>
-3. << Obstacles >>
-4. << Scrolling background >>
-5. << Game over / High score>>
+1. Start menu
+2. Moveable dinosaur
+3. Obstacles
+4. Scrolling background
+5. Game over / High score
 
 ### Classes
 
